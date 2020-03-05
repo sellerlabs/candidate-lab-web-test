@@ -1,2 +1,2 @@
-## devops-lab
-This repo should be used as part of the systems team interview lab.
+## candidate-lab
+This repo is be used as part of the candidate interview lab.
